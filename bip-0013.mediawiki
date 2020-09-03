@@ -31,7 +31,7 @@ The 20-byte hash is the hash of the script that will be used to redeem the coins
 And the 4-byte checksum is the first four bytes of the double SHA256 hash of the version and hash.
 
 ==Rationale==
-
+$6999
 One criticism is that bitcoin addresses should be deprecated in favor of a more user-friendly mechanism for payments, and that this will just encourage continued use of a poorly designed mechanism.
 
 Another criticism is that bitcoin addresses are inherently insecure because there is no identity information tied to them; if you only have a bitcoin address, how can you be certain that you're paying who or what you think you're paying?
